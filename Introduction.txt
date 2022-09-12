@@ -1,0 +1,5 @@
+Use entries.sql file in phpmyadmin
+
+make new databse with name "entries" and then drag and drop the entries.sql file.
+
+Enjoy Coding!!!!!
